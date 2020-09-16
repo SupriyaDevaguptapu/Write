@@ -1,0 +1,16 @@
+Why Spring?
+Spring makes programming Java quicker, easier, and safer for everybody. Spring’s focus on speed, simplicity, and productivity has made it the world's most popular Java framework.
+
+Spring Framework is a Java platform that provides comprehensive infrastructure support for developing Java applications. 
+Spring handles the infrastructure so you can focus on your application.
+
+
+Spring Framework Architecture
+The Spring framework consists of seven modules which are shown in the above Figure. 
+These modules are Spring Core, Spring AOP, Spring Web MVC, Spring DAO, Spring ORM, Spring context, and Spring Web flow.
+
+What can Spring do?
+1.Microservices
+Microservice architectures are the ‘new normal’. Building small, self-contained, ready to run applications can bring great flexibility and added resilience to your code. 
+Spring Boot’s many purpose-built features make it easy to build and run your microservices in production at scale. And don’t forget, no microservice architecture is complete without 
+Spring Cloud ? easing administration and boosting your fault-tolerance.
